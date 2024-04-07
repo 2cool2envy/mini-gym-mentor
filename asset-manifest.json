@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mini-gym-mentor/static/css/main.c6d8e190.css",
-    "main.js": "/mini-gym-mentor/static/js/main.e61555c9.js",
+    "main.css": "/mini-gym-mentor/static/css/main.8e131855.css",
+    "main.js": "/mini-gym-mentor/static/js/main.4e98f023.js",
     "static/js/453.53901e00.chunk.js": "/mini-gym-mentor/static/js/453.53901e00.chunk.js",
     "index.html": "/mini-gym-mentor/index.html",
-    "main.c6d8e190.css.map": "/mini-gym-mentor/static/css/main.c6d8e190.css.map",
-    "main.e61555c9.js.map": "/mini-gym-mentor/static/js/main.e61555c9.js.map",
+    "main.8e131855.css.map": "/mini-gym-mentor/static/css/main.8e131855.css.map",
+    "main.4e98f023.js.map": "/mini-gym-mentor/static/js/main.4e98f023.js.map",
     "453.53901e00.chunk.js.map": "/mini-gym-mentor/static/js/453.53901e00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6d8e190.css",
-    "static/js/main.e61555c9.js"
+    "static/css/main.8e131855.css",
+    "static/js/main.4e98f023.js"
   ]
 }
